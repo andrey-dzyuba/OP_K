@@ -1,0 +1,6 @@
+@ViginereApi_HostAddress = http://localhost:5296
+
+GET {{ViginereApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
